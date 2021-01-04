@@ -1,0 +1,12 @@
+{
+"companyName": "PRCalc",
+"productName": "Procentage Calculator",
+"dataUrl": "865355_!Arbit_Calc.data.unityweb",
+"wasmCodeUrl": "865355_!Arbit_Calc.wasm.code.unityweb",
+"wasmFrameworkUrl": "865355_!Arbit_Calc.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
